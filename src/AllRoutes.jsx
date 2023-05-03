@@ -17,7 +17,6 @@ function AllRoutes() {
         <Route path='/service' element={<ServicePage />} />
         <Route path='/gallery' element={<GalleryPage />} />
         <Route path='/contact' element={<Contact />} />
-        <Route path='*' element={<PageNotFound />} />
     </Routes>  
   )
 }
