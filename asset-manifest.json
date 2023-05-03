@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Santhosh-audios-frontend/static/css/main.b24e5471.css",
-    "main.js": "/Santhosh-audios-frontend/static/js/main.d55cef8f.js",
+    "main.js": "/Santhosh-audios-frontend/static/js/main.4ba688d0.js",
     "static/media/banner1.png": "/Santhosh-audios-frontend/static/media/banner1.80927df303f6c2d5c28b.png",
     "static/media/banner2.png": "/Santhosh-audios-frontend/static/media/banner2.30d04f468e396335ce26.png",
     "static/media/logo.png": "/Santhosh-audios-frontend/static/media/logo.7f94dcaee3901c43c546.png",
@@ -9,10 +9,10 @@
     "static/media/whatsapp.png": "/Santhosh-audios-frontend/static/media/whatsapp.43a4918296128915afbb.png",
     "index.html": "/Santhosh-audios-frontend/index.html",
     "main.b24e5471.css.map": "/Santhosh-audios-frontend/static/css/main.b24e5471.css.map",
-    "main.d55cef8f.js.map": "/Santhosh-audios-frontend/static/js/main.d55cef8f.js.map"
+    "main.4ba688d0.js.map": "/Santhosh-audios-frontend/static/js/main.4ba688d0.js.map"
   },
   "entrypoints": [
     "static/css/main.b24e5471.css",
-    "static/js/main.d55cef8f.js"
+    "static/js/main.4ba688d0.js"
   ]
 }
